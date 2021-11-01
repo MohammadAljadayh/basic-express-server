@@ -4,10 +4,10 @@
 
 ### Deployment Test
 
-- [ci/cd GitHub Actions]().
-- [herokuapp Link Main ]().
-- [pull request]().
-- [Main Repo link]() 
+- [ci/cd GitHub Actions](https://github.com/MohammadAljadayh/basic-express-server/actions).
+- [herokuapp Link Main ](https://mohammed-basic-express-server.herokuapp.com/).
+- [pull request](https://github.com/MohammadAljadayh/basic-express-server/pull/1).
+- [Main Repo link](https://github.com/MohammadAljadayh/basic-express-server/tree/main) 
 
 ## Setup 
 
@@ -19,7 +19,7 @@
 
 - `npm start`
 
-- Endpoint person test : `/person?name=Mohammad`
+- Endpoint person test : `/person?name=mohammad`
 
 
 ## Tests
